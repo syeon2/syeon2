@@ -6,10 +6,9 @@
 
 I'm Front-end developer using JavaScript and React👨🏻‍💻
 
-🌱 I'm currently learning coding and dev skill.
-
-
-<div align='center'>
+🌱  I'm currently learning coding and dev skill.
+ 
+ 
  
  🛠 My skills & stack 🛠
  
