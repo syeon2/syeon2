@@ -4,7 +4,7 @@
   <a href="mailto:gsy4568@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gsy4568@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
 
 
-👐🏻 Hi! I'm Front-end developer using JavaScript and React👨🏻‍💻
+#### 👐🏻 Hi! I'm Front-end developer using JavaScript and React👨🏻‍💻
  
  <br />
   <br />
