@@ -7,8 +7,6 @@
 👐🏻 Hi! I'm SuYeon Kim!
 
 I'm Front-end developer using JavaScript and React👨🏻‍💻
-
-🌱  I'm currently learning coding and dev skill.
  
  <br />
   <br />
