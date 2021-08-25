@@ -4,9 +4,9 @@
 
 ## Hi there 👐🏻
   
-👨🏻‍💻 I'm Front-end developer using JavaScript and React.
-🎈  I'm interested in Core JavaScript, React, TypeScript.
-🌱  Let's grow together 🏋🏻‍♀️
+👨🏻‍💻 I'm Front-end developer using JavaScript and React. <br />
+🎈  I'm interested in Core JavaScript, React, TypeScript. <br />
+🌱  Let's grow together 🏋🏻‍♀️ <br />
  
  <br />
   <br />
