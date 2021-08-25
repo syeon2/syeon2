@@ -2,13 +2,16 @@
   <a href="mailto:gsy4568@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gsy4568@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
 
 
-👋 안녕하세요. 김수연입니다 :)
+👐🏻 Hi! I'm SuYeon Kim!
 
-🏃🏻‍♂️ 저는 지금까지
+I'm Front-end developer using JavaScript and React👨🏻‍💻
+
+🌱 I'm currently learning coding and dev skill.
+
 
 <div align='center'>
  
- 🛠 Skills & Stack 🛠
+ 🛠 My skills & stack 🛠
  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white"/>
@@ -26,3 +29,6 @@
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
 
+
+  
+  
