@@ -11,7 +11,6 @@ I'm interested in Core JavaScript, React, TypeScript. 🎈 <br />
 Let's grow together! 🌱 <br />
  
  <br />
- <br />
  
  ## 🛠 My skills & stack 🛠
  
