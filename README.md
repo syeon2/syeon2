@@ -2,11 +2,11 @@
   <a href="mailto:gsy4568@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://fascinated-beechnut-581.notion.site/8631b0d120c14b45affe82adc698d9c5" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white" />
 
-## Hi there 👐🏻
+## 👐🏻  Hi there
   
-👨🏻‍💻   I'm Front-end developer using JavaScript and React. <br />
-🎈   I'm interested in Core JavaScript, React, TypeScript. <br />
-🌱   Let's grow together!<br />
+I'm Front-end developer using JavaScript and React. 👨🏻‍💻 <br />
+I'm interested in Core JavaScript, React, TypeScript. 🎈 <br />
+Let's grow together! 🌱 <br />
  
  <br />
   <br />
