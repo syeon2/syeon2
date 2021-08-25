@@ -2,7 +2,7 @@
 
 <a href="http://ksy4568.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-f8df4f?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:gsy4568@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://fascinated-beechnut-581.notion.site/8631b0d120c14b45affe82adc698d9c5" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://fascinated-beechnut-581.notion.site/8631b0d120c14b45affe82adc698d9c5" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
 
 
 #### Hi! I'm Front-end developer using JavaScript and React👨🏻‍💻
