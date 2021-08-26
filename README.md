@@ -22,12 +22,12 @@ Let's grow together! 🌱 <br />
   
   ## 💁🏻‍♂️ About Me
   
- 📈 Frequently used top language
+ 📈 Frequently used top language <br />
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksy4568&hide=html,css&langs_count=3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
   <br />
- ⏰ This week's coding time
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ksy4568&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ ⏰ This week's coding time <br />
+  [![ksy4568's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ksy4568&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   <br />
   
