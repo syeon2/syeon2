@@ -18,11 +18,9 @@ Let's grow together! 🌱 <br />
   <br />
   <br />  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" />  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white" />  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
 
-  <br />
+<br />
   
-  ## 💁🏻‍♂️ About Me
-  
- <br />
+## 💁🏻‍♂️ About Me
   
 #### 📈 Frequently used top language
 
@@ -33,11 +31,10 @@ Let's grow together! 🌱 <br />
 #### ⏰ This week's coding time
 
 [![⏰ This week's coding time](https://github-readme-stats.vercel.app/api/wakatime?username=ksy4568&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
   
-  <br />
+<br />
   
-  ![🌱 My GitHub stats](https://github-readme-stats.vercel.app/api?username=ksy4568&show_icons=true&theme=dark)
+![🌱 My GitHub stats](https://github-readme-stats.vercel.app/api?username=ksy4568&show_icons=true&theme=dark)
 
 
 
