@@ -21,6 +21,9 @@ Let's grow together! 🌱 <br />
 <br />
   
 ## 💁🏻‍♂️ About Me
+    
+![🌱 My GitHub stats](https://github-readme-stats.vercel.app/api?username=ksy4568&show_icons=true&theme=dark)
+  
   
 #### 📈 Frequently used top language
 
@@ -30,13 +33,4 @@ Let's grow together! 🌱 <br />
 #### ⏰ This week's coding time
 
 [![⏰ This week's coding time](https://github-readme-stats.vercel.app/api/wakatime?username=ksy4568&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-<br />
-  
-![🌱 My GitHub stats](https://github-readme-stats.vercel.app/api?username=ksy4568&show_icons=true&theme=dark)
 
-
-
-
-  
-  
