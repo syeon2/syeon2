@@ -22,10 +22,10 @@ Let's grow together! 🌱 <br />
 
 <br />
   
-## 🌱  Growing
+## 🌱  Steady growth
 
 
-![🌱 My GitHub stats](https://github-readme-stats.vercel.app/api?username=ksy4568&show_icons=true&theme=dark&hide=contribs,prs&count_private=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ksy4568&show_icons=true&theme=dark&hide=contribs,prs&count_private=true)
   
   
 #### 📈 Frequently used top language
