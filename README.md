@@ -23,6 +23,9 @@ Let's grow together! 🌱 <br />
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksy4568&hide=html,css&langs_count=3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ksy4568&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ㅏ뇨4568&show_icons=true&theme=dark)
+
 
 
   
