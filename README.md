@@ -28,7 +28,7 @@ Let's grow together! 🌱 <br />
  
   <br />
 
-[![⏰ This week's coding time](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![⏰ This week's coding time](https://github-readme-stats.vercel.app/api/wakatime?username=ksy4568&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   
   <br />
