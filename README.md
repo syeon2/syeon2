@@ -7,7 +7,7 @@
 I'm Front-end developer using JavaScript and React. 👨🏻‍💻
   <br />
   <br />
-I'm interested in Core JavaScript, React, TypeScript. 🎈 <br />
+I'm interested in Core JavaScript, React, TypeScript these days. 🎈 <br />
 Let's grow together! 🌱 <br />
  
  <br />
