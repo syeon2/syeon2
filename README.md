@@ -14,13 +14,3 @@
   <br />
   <br />  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" />  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white" />  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
 
-<br />
-  
-## 🌱 성장 중
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ksy4568&show_icons=true&theme=dark&hide=contribs,prs&count_private=true)
-  
-  
-#### 📈 주 언어
-
-[![📈 Frequently used top language](https://github-readme-stats.vercel.app/api/top-langs/?username=ksy4568&hide=html,css&langs_count=3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
