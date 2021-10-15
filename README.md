@@ -24,9 +24,3 @@
 #### 📈 주 언어
 
 [![📈 Frequently used top language](https://github-readme-stats.vercel.app/api/top-langs/?username=ksy4568&hide=html,css&langs_count=3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-  
-#### ⏰ 코딩하는 시간
-
-[![⏰ This week's coding time](https://github-readme-stats.vercel.app/api/wakatime?username=ksy4568&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
