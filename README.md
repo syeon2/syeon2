@@ -1,8 +1,8 @@
 
 ## 👐🏻  안녕하세요! 개발자 syeon입니다.👨🏻‍💻
 
-명확하게 파악할 수 있는 코드를 구현하기 위해 오늘도 열심히 달립니다. 🏃🏻 <br />
-찐 개발자가 되는 그날까지 study hard!🌱 <br />
+- 명확하게 파악할 수 있는 코드를 구현하기 위해 오늘도 열심히 달립니다. 🏃🏻 <br />
+- 찐 개발자가 되는 그날까지 study hard!🌱 <br />
 
 <a href="http://ksy4568.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-f8df4f?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:gsy4568@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
