@@ -1,5 +1,5 @@
 
-## 👐🏻  안녕하세요! 개발자 syeon입니다.👨🏻‍💻
+## 안녕하세요! 개발자 syeon입니다.👨🏻‍💻
 
 - 명확하게 파악할 수 있는 코드를 구현하기 위해 오늘도 열심히 달립니다. 🏃🏻 <br />
 - 찐 개발자가 되는 그날까지 study hard!🌱 <br />
@@ -8,7 +8,6 @@
   <a href="mailto:gsy4568@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://fascinated-beechnut-581.notion.site/8631b0d120c14b45affe82adc698d9c5" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white" />
 
- 
  <br />
  
  ## 🛠 기술 스택 🛠
