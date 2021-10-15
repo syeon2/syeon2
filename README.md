@@ -1,12 +1,11 @@
 
 ## 안녕하세요! 개발자 syeon입니다.👨🏻‍💻
 
-### 명확하게 파악할 수 있는 코드를 구현하기 위해 오늘도 열심히 달립니다. 🏃🏻 <br />
-
 <a href="http://ksy4568.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-f8df4f?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:gsy4568@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://fascinated-beechnut-581.notion.site/8631b0d120c14b45affe82adc698d9c5" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white" />
 
+  ### 명확하게 파악할 수 있는 코드를 구현하기 위해 오늘도 열심히 달립니다. 🏃🏻 <br />
  <br />
  
  ## 🛠 기술 스택 🛠
