@@ -1,5 +1,5 @@
 
-## 안녕하세요! 개발자 syeon입니다.👨🏻‍💻
+## 안녕하세요! 저는 FE 개발자입니다.👨🏻‍💻
 
 <a href="http://ksy4568.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-f8df4f?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:gsy4568@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
