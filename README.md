@@ -6,7 +6,11 @@
 #### 德業一致(덕업일치) 🏃🏻
 - 겸손한 자세를 가진 소통 & 개발에 덕질을 하는 삶
 
----------
-
 > 기술을 사용하는 목적을 '당당하게' 이야기할 수 있으며
 > 그럼에도 더 좋은 방법들이 존재한다는 것을 받아드리는 '겸손한' 덕질의 자세 지향합니다 🎯
+
+--------------------
+
+[![Baekjoon](http://mazassumnida.wtf/api/generate_badge?boj=gsy4568)](https://solved.ac/gsy4568)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksy4568&layout=compact&theme=dark)
