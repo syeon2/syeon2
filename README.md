@@ -10,7 +10,9 @@
 > 그럼에도 더 좋은 방법들이 존재한다는 것을 받아드리는 '겸손한' 덕질의 자세 지향합니다 🎯
 
 ###### Blog
-<img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white"/></a>
+<a href="https://velog.io/@waterkite22" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white"/></a>
+</a>
 &nbsp;
 <img src="https://img.shields.io/badge/Vlog-20C996?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
