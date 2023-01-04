@@ -11,10 +11,12 @@
 
 ###### Blog
 <a href="https://velog.io/@waterkite22" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Vlog-20C996?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Vlog-20C996?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="https://medium.com/@gsy4568">
+  <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white"/></a>
+</a>
 
 --------------------
 
