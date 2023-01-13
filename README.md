@@ -21,5 +21,4 @@
 
 --------------------
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [![Baekjoon Algorithm](http://mazassumnida.wtf/api/v2/generate_badge?boj=gsy4568)](https://solved.ac/gsy4568/)
