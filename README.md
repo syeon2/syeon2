@@ -14,10 +14,6 @@
 <a href="https://velog.io/@waterkite22" target="_blank">
   <img src="https://img.shields.io/badge/Vlog-20C996?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </a>
-&nbsp;
-<a href="https://medium.com/@gsy4568">
-  <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white"/></a>
-</a>
 
 --------------------
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=syeon2&exclude_repo=ksy4568.github.io&hide=html,css,scss,sass&langs_count=5&layout=compact&theme=dark)](https://github.com/syeon2?tab=repositories)
