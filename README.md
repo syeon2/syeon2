@@ -1,4 +1,4 @@
-#### 당당한 개발자💪🏻 (당연한 것을 당연하게 여기지 않는👨🏻‍💻)
+#### 책을 좋아하는 개발자📚
 
 ###### Blog
 <a href="https://velog.io/@waterkite22" target="_blank">
