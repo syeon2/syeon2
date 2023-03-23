@@ -1,5 +1,5 @@
 #### 책을 좋아하는 개발자📚
-지식의 확장과 성장을 즐기며 이를 활용해 문제 해결과 성취감을 찾는 개발자입니다.
+"지식의 확장과 성장을 즐기며 이를 활용해 문제 해결과 성취감을 찾는 개발자입니다."
 
 ###### Skills
 <img src="https://img.shields.io/badge/java-c74634?style=flat-square&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
