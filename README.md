@@ -1,5 +1,6 @@
 #### 책을 좋아하는 개발자📚
-"지식을 더하고 개선하는 것을 즐거움으로 여깁니다."
+지식을 더하고 개선하는 것을 즐거움으로 여깁니다.
+지식의 다양한 활용을 즐기며, 문제 해결 과정에서의 성취감을 느끼고 있습니다.
 
 ###### Skills
 <img src="https://img.shields.io/badge/java-c74634?style=flat-square&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
