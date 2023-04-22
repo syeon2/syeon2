@@ -7,8 +7,8 @@
 <a href="https://github.com/syeon2"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a> <a href="https://fascinated-beechnut-581.notion.site/Daebi-s-Devlog-f2c82ac119d44e9eb5a46988b0882c13"><img src="https://img.shields.io/badge/notion-181717?style=flat-square&logo=Notion&logoColor=white" /></a> <img src="https://img.shields.io/badge/slack-6441A5?style=flat-square&logo=Slack&logoColor=white" />
 
 ###### Blog
-<a href="https://medium.com/@gsy4568" target="_blank">
-  <img src="https://img.shields.io/badge/Devlog-000000?style=flat-square&logo=Medium&logoColor=white"/></a>
+<a href="https://syeon2.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Devlog-000000?style=flat-square&logo=Bitdefender&logoColor=white"/></a>
 </a>
 <a href="https://velog.io/@waterkite22" target="_blank">
   <img src="https://img.shields.io/badge/Velog-20C996?style=flat-square&logo=Vimeo&logoColor=white"/></a>
