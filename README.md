@@ -10,9 +10,7 @@
 <a href="https://syeon2.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/Devlog-000000?style=flat-square&logo=Bitdefender&logoColor=white"/></a>
 </a>
-<a href="https://velog.io/@waterkite22" target="_blank">
-  <img src="https://img.shields.io/badge/Velog-20C996?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-</a>
+
 
 --------------------
 
