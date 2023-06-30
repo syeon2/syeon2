@@ -12,14 +12,9 @@
   <img src="https://img.shields.io/badge/Devlog-000000?style=flat-square&logo=Bitdefender&logoColor=white"/></a>
 </a>
 
-
---------------------
-
-[![Baekjoon Algorithm](http://mazassumnida.wtf/api/v2/generate_badge?boj=waterkite)](https://solved.ac/waterkite/)
-
 ------
 #### 💁🏻‍♂️ Latest Blog Post
-<br />
+
  - [6/30 - [Hot-Dealicious #2] WebSocket 통신](https://syeon2.github.io/project/hd-websocket.html)
  - [6/6 - Docker, Nginx의 CI (지속적 통합)](https://syeon2.github.io/project/project-review-hd.html)
  - [5/22 - String literal과 new String (feat. VisualVM)](https://syeon2.github.io/devlog/stringLiteral.html)
