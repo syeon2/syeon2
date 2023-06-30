@@ -32,6 +32,10 @@ preREADME = """
 --------------------
 
 [![Baekjoon Algorithm](http://mazassumnida.wtf/api/v2/generate_badge?boj=waterkite)](https://solved.ac/waterkite/)
+
+------
+#### 💁🏻‍♂️ Latest Blog Post
+<br />
 """
 
 resultREADME = f"{preREADME}{latest_posts}"
