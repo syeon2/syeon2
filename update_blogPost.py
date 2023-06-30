@@ -28,14 +28,9 @@ preREADME = """
   <img src="https://img.shields.io/badge/Devlog-000000?style=flat-square&logo=Bitdefender&logoColor=white"/></a>
 </a>
 
-
---------------------
-
-[![Baekjoon Algorithm](http://mazassumnida.wtf/api/v2/generate_badge?boj=waterkite)](https://solved.ac/waterkite/)
-
 ------
 #### 💁🏻‍♂️ Latest Blog Post
-<br />
+
 """
 
 resultREADME = f"{preREADME}{latest_posts}"
