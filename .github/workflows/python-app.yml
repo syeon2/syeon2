@@ -1,0 +1,39 @@
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+
+name: Python application
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+   - cron: "0 0 */1 * *"
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install feedparser
+    - name: Run Update Python Script
+      run: |
+        python update_blogPost.py ## 실행시킬 .py이름
+    - name: Update README.md file
+      run: |
+        git pull
+        git add .
+        git diff
+        git config --local user.email "your gitEmail"
+        git config --local user.name "you gitName"
+        git commit -m "commit Message"
+        git push
