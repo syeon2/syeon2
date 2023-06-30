@@ -15,7 +15,7 @@ for idx, entrie in enumerate(rss_feed['entries']):
   latest_posts += f" - [{feed_date.tm_mon}/{feed_date.tm_mday} - {entrie['title']}]({entrie['link']})\n"
 
 preREADME = """
-#### 책을 좋아하는 개발자📚
+### 책을 좋아하는 개발자📚
 "기술에 대한 호기심을 가지고 꾸준히 성장합니다."
 
 ###### Skills
