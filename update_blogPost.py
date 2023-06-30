@@ -4,7 +4,7 @@ import feedparser
 blog_url = "https://syeon2.github.io/feed.xml"
 rss_feed = feedparser.parse(blog_url)
 
-MAX_NUM = 5
+MAX_NUM = 3
 
 latest_posts = ""
 
