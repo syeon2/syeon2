@@ -8,7 +8,7 @@
 ------
 #### 💁🏻‍♂️ Latest Blog Post
 
+ - [7/19 - [재고 관리 프로젝트] 트랜잭션, 락의 부하 최적화(feat. 실버 블릿은 없다.)](https://syeon2.github.io/project/sm-project1.html)
  - [7/4 - [Hot-Dealicious #3] WebSocket 성능 테스트](https://syeon2.github.io/project/hd-websocket2.html)
  - [6/30 - [Hot-Dealicious #2] WebSocket 통신](https://syeon2.github.io/project/hd-websocket1.html)
  - [6/6 - Docker, Nginx의 CI (지속적 통합)](https://syeon2.github.io/project/project-review-hd.html)
- - [5/22 - String literal과 new String (feat. VisualVM)](https://syeon2.github.io/devlog/stringLiteral.html)
