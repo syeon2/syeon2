@@ -8,9 +8,9 @@
 ------
 #### 💁🏻‍♂️ Latest Blog Post
 
+ - [8/10 - ClassLoader의 다양한 활용 (feat. jjwt library)](https://syeon2.github.io/devlog/classloader.html)
  - [8/8 - [원티드 프리온보딩 백엔드] 사전 과제를 구현해보다.](https://syeon2.github.io/project/wanted_assignment.html)
  - [8/8 - [원티드 프리온보딩 백엔드] #1 JWT를 통한 로그인 인증](https://syeon2.github.io/project/wanted_assignment1.html)
  - [7/23 - [스스로 정리해보는 CS] #2 프로세스](https://syeon2.github.io/devlog/operation2.html)
  - [7/21 - [스스로 정리해보는 CS] #1 컴퓨터 구조 &amp; CPU](https://syeon2.github.io/devlog/operation1.html)
  - [7/20 - [재고 관리 #2] 트러블슈팅: 문제를 다른 시각으로 보기](https://syeon2.github.io/project/sm-project2.html)
- - [7/19 - [재고 관리 #1] 트랜잭션, 락의 부하 최적화(feat. 실버 블릿은 없다.)](https://syeon2.github.io/project/sm-project1.html)
