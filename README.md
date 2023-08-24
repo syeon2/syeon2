@@ -8,9 +8,9 @@
 ------
 #### 💁🏻‍♂️ Latest Blog Post
 
+ - [8/23 - [LeetCode] 121. Best Time to Buy and Sell Stock](https://syeon2.github.io/devlog/leetcode-best-time-to-buy-and-shell-stock.html)
+ - [8/23 - [LeetCode] 169. Majority Element](https://syeon2.github.io/devlog/leetcode-majority-element.html)
+ - [8/23 - [LeetCode] 189. Rotate Array](https://syeon2.github.io/devlog/leetcode-rotate-array.html)
+ - [8/22 - [LeetCode] 80. Remove Duplicates from Sorted Array II](https://syeon2.github.io/devlog/leetcode-remove-duplicates-from-sorted-array2.html)
  - [8/22 - [LeetCode] Array/String](https://syeon2.github.io/devlog/wanted-leetcode1.html)
  - [8/10 - ClassLoader의 다양한 활용 (feat. jjwt library)](https://syeon2.github.io/devlog/classloader.html)
- - [8/8 - [원티드 프리온보딩 백엔드] 사전 과제를 구현해보다.](https://syeon2.github.io/project/wanted_assignment.html)
- - [8/8 - [원티드 프리온보딩 백엔드] #1 JWT를 통한 로그인 인증](https://syeon2.github.io/project/wanted_assignment1.html)
- - [7/23 - [스스로 정리해보는 CS] #2 프로세스](https://syeon2.github.io/devlog/operation2.html)
- - [7/21 - [스스로 정리해보는 CS] #1 컴퓨터 구조 &amp; CPU](https://syeon2.github.io/devlog/operation1.html)
