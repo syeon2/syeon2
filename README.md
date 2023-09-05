@@ -8,9 +8,9 @@
 ------
 #### 💁🏻‍♂️ Latest Blog Post
 
+ - [9/4 - [LeetCode] 162. Find Peak Element](https://syeon2.github.io/devlog/leetcode-find-peek-element.html)
+ - [9/4 - [LeetCode] 153. Find Minimum in Rotated Sorted Array](https://syeon2.github.io/devlog/leetcode-search-in-rotated-sorted-array.html)
+ - [9/4 - [LeetCode] 148. Sort List](https://syeon2.github.io/devlog/leetcode-sort-list.html)
+ - [9/4 - [Data Structure] Linear Probing HashTable](https://syeon2.github.io/devlog/linear-probling-hashtable.html)
  - [8/31 - [LeetCode] 150. Evaluate Reverse Polish Notation](https://syeon2.github.io/devlog/leetcode-evaluate-reverse-polish-notation.html)
  - [8/31 - [LeetCode] 383. Ransom Note](https://syeon2.github.io/devlog/leetcode-ransom-note.html)
- - [8/31 - [LeetCode] 242. Valid Anagram](https://syeon2.github.io/devlog/leetcode-valid-anagram.html)
- - [8/30 - [Hot-Dealicious V2] 전체 프로젝트 재설계](https://syeon2.github.io/project/hot-dealicious.html)
- - [8/29 - [LeetCode] 219. Contains Duplicate II](https://syeon2.github.io/devlog/leetcode-contains-duplicate2.html)
- - [8/29 - [LeetCode] 35. Search Insert Position](https://syeon2.github.io/devlog/leetcode-merge-search-insert-position.html)
