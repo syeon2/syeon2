@@ -8,9 +8,9 @@
 ------
 #### 💁🏻‍♂️ Latest Blog Post
 
+ - [9/6 - [LeetCode] 637. Average of Levels in Binary Tree](https://syeon2.github.io/devlog/leetcode-average-of-levels-in-binary-tree.html)
+ - [9/6 - [LeetCode] 199. Binary Tree Right Side View](https://syeon2.github.io/devlog/leetcode-binary-tree-right-side-view.html)
+ - [9/6 - [LeetCode] 230. Kth Smallest Element in a BST](https://syeon2.github.io/devlog/leetcode-kth-smallest-element-in-a-bst.html)
+ - [9/6 - [LeetCode] 530. Minimum Absolute Difference in BST](https://syeon2.github.io/devlog/leetcode-minumum-absolute-difference-in-bst.html)
  - [9/4 - [LeetCode] 153. Find Minimum in Rotated Sorted Array](https://syeon2.github.io/devlog/leetcode-find-minimum-in-rotated-sorted-array.html)
  - [9/4 - [LeetCode] 162. Find Peak Element](https://syeon2.github.io/devlog/leetcode-find-peek-element.html)
- - [9/4 - [LeetCode] 33. Search in Rotated Sorted Array](https://syeon2.github.io/devlog/leetcode-search-in-rotated-sorted-array2.html)
- - [9/4 - [LeetCode] 148. Sort List](https://syeon2.github.io/devlog/leetcode-sort-list.html)
- - [9/4 - [Data Structure] Linear Probing HashTable](https://syeon2.github.io/devlog/linear-probling-hashtable.html)
- - [8/31 - [LeetCode] 150. Evaluate Reverse Polish Notation](https://syeon2.github.io/devlog/leetcode-evaluate-reverse-polish-notation.html)
