@@ -8,9 +8,9 @@
 ------
 #### 💁🏻‍♂️ Latest Blog Post
 
+ - [9/11 - [LeetCode] 211. Design Add and Search Words Data Structure](https://syeon2.github.io/devlog/leetcode-design-add-and-search-words-data-structure.html)
+ - [9/11 - [LeetCode] 208. Implement Trie (Prefix Tree)](https://syeon2.github.io/devlog/leetcode-implement-trie.html)
+ - [9/11 - [LeetCode] 215. Kth Largest Element in an Array](https://syeon2.github.io/devlog/leetcode-kth-largest-element-in-an-array.html)
  - [9/6 - [LeetCode] 637. Average of Levels in Binary Tree](https://syeon2.github.io/devlog/leetcode-average-of-levels-in-binary-tree.html)
  - [9/6 - [LeetCode] 199. Binary Tree Right Side View](https://syeon2.github.io/devlog/leetcode-binary-tree-right-side-view.html)
  - [9/6 - [LeetCode] 230. Kth Smallest Element in a BST](https://syeon2.github.io/devlog/leetcode-kth-smallest-element-in-a-bst.html)
- - [9/6 - [LeetCode] 530. Minimum Absolute Difference in BST](https://syeon2.github.io/devlog/leetcode-minumum-absolute-difference-in-bst.html)
- - [9/4 - [LeetCode] 153. Find Minimum in Rotated Sorted Array](https://syeon2.github.io/devlog/leetcode-find-minimum-in-rotated-sorted-array.html)
- - [9/4 - [LeetCode] 162. Find Peak Element](https://syeon2.github.io/devlog/leetcode-find-peek-element.html)
