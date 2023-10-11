@@ -8,9 +8,9 @@
 ------
 #### 💁🏻‍♂️ Latest Blog Post
 
+ - [10/7 - [재고 관리 #3] 트러블슈팅: Redis를 활용하여 DB 데드락 해결하기](https://syeon2.github.io/project/sm-project3.html)
  - [10/5 - [Matching System #3] WebSocket 서버의 Scale out](https://syeon2.github.io/project/matching-system3.html)
  - [10/5 - [Matching System #4] Redis Distributed Lock (feat. 동시성 이슈)](https://syeon2.github.io/project/matching-system4.html)
  - [10/2 - [Matching System #1] 프로젝트 개요 및 Architecture &amp; 기능 Flow](https://syeon2.github.io/project/matching-system1.html)
  - [10/2 - [Matching System #2] WebSocket &amp; STOMP를 활용한 위치 데이터 저장](https://syeon2.github.io/project/matching-system2.html)
  - [9/25 - [Hot-Dealicious #3] Hot-Dealicious 중간 피드백](https://syeon2.github.io/project/hd-websocket3.html)
- - [9/21 - [Java] Primitive Type 데이터가 저장되는 공간은 어딜까?](https://syeon2.github.io/devlog/primitive-type-storage.html)
