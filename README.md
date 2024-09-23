@@ -1,6 +1,10 @@
 
-### 책을 좋아하는 개발자📚
-"기술에 대한 호기심을 가지고 꾸준히 성장합니다."
+### 덕업일치(悳業一致)의 삶을 꿈꾸는 개발자🧑🏻‍💻
+
+'기술의 근간을 탐구하고 엔지니어링적으로 적용할 수 있는 개발자'라는 모토를 가지고 있습니다.
+
+기술에 대한 호기심을 바탕으로 꾸준히 성장하며, 실용적인 가치를 창출하고 지속 가능한 솔루션을 개발하는 데 주력합니다.
+
 
 ###### Skills
 <img src="https://img.shields.io/badge/java-c74634?style=flat-square&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white">
