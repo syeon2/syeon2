@@ -13,12 +13,12 @@
 
 #### 💁🏻‍♂️ Latest Blog Post
 
+ - [9/25 - [Book] The Pragmatic Programmer (실용주의 프로그래머)](https://syeon2.github.io/devlog/the-pragmatic-programmer.html)
  - [9/11 - [Project] 상품 주문 쿼리 최적화한 사례](https://syeon2.github.io/devlog/hotdeal-order-query.html)
  - [9/4 - [Project] 상품 주문 시 재고 차감 동시성 이슈 트러블슈팅](https://syeon2.github.io/devlog/hotdeal-concurrency.html)
  - [9/4 - [Project] 예약 상품 주문 요청 속도 개선 사례를 소개합니다.](https://syeon2.github.io/devlog/hotdeal-order-speed.html)
  - [9/2 - [Project] Spring에서의 DTO와 VO 전략](https://syeon2.github.io/devlog/hotdeal-domain.html)
  - [7/15 - Service Discovery로 마이크로 서비스 주소 관리하기](https://syeon2.github.io/devlog/stalk-service-discovery.html)
- - [7/14 - Spring Cloud Config로 분산된 마이크로 서비스 설정 중앙 관리](https://syeon2.github.io/devlog/stalk-msa-config.html)
 
 
 <br />
